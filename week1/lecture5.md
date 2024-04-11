@@ -13,11 +13,19 @@
   - [教材管理システムの構築](#material-management)
   - [教材の更新と配布の効率化](#material-distribution)
 
+
+
+
 <a id="introduction"></a>
 ## 業務効率化と自動化とは
 業務効率化と自動化は、日常業務の生産性向上に不可欠です。反復的なタスクの自動化により、ミスを減らし、時間を節約できます。教育現場でも、テストの採点や教材管理の自動化で教員の負担を軽減し、データ分析の自動化で生徒一人一人のニーズに合わせた指導が可能になります。
 
 本講習では、Google Apps Script (GAS) を用いた業務自動化、テストフローの自動化、教材フローの最適化について学び、教育の質向上につなげます。
+
+- システムの全体像
+![system_architecture.png](./system_architecture.png)
+![system_sequence_diagram.png](./system_sequence_diagram.png)
+
 
 <a id="gas"></a>
 ## Google Apps Script (GAS) を用いた業務自動化
